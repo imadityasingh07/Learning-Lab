@@ -1,0 +1,17 @@
+.box-1{
+  border: 2px dotted red;
+  padding: 10px;
+  margin: 10px;
+}
+
+.box-2{
+  border: 2px dashed blue;
+  padding: 10px;
+  margin: 10px;
+}
+
+.box-3{
+  border: 2px double green;
+  padding: 10px;
+  margin: 10px;
+}
