@@ -1,0 +1,8 @@
+.profile-card {
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid navy;
+  width: 250px;
+  height: 150px;
+  text-align: center;
+}
