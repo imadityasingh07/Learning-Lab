@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+#price-1 {
+  background-color: crimson;
+  color: white;
+  padding: 40px;
+}
+
+#price-2 {
+  background-color: gainsboro;
+  color: black;
+  padding: 40px;
+}
+
+#price-3 {
+  background-color: brown;
+  color: beige;
+  padding: 40px;
+}
